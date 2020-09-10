@@ -8,7 +8,7 @@
 - edit
 
 ## Registration/Login
-Run the project using "php artisan serve" in the terminal with directory of the folder of the whole project using the following creditencials:
+Open the folder as a workspace and install composer("composer install"). Run the project using "php artisan serve" in the terminal with directory of the folder of the whole project using the following creditencials:
 - email - eroval2@test.com
 - password - eroval98
 
