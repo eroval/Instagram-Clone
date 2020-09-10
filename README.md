@@ -4,6 +4,7 @@
 - email sending
 - posting system
 
+## Registration/Login
 Run the project using "php artisan serve" in the terminal with directory of the folder of the whole project using the following creditencials:
 - email - eroval2@test.com
 - password - eroval98
