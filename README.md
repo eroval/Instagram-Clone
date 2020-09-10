@@ -2,7 +2,8 @@
 - user registration & login
 - following & unfollowing
 - email sending
-- posting system
+- posting system with captions and images
+- edit
 
 ## Registration/Login
 Run the project using "php artisan serve" in the terminal with directory of the folder of the whole project using the following creditencials:
