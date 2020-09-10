@@ -2,7 +2,7 @@
 - user registration & login
 - following & unfollowing
 - email sending
-- posting system.
+- posting system
 
 Run the project using "php artisan serve" in the terminal with directory of the folder of the whole project using the following creditencials:
 - email - eroval2@test.com
